@@ -1,6 +1,10 @@
-## Your Name
+## Katrina Harradine
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A sentence about who and what you are. 
+
+Then a sentence about what you've achieved. 
+
+And then a sentence about what excites you about tech.
 
 ## Projects
 
@@ -42,22 +46,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (December 2020 to March 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Greenwich (2009 - 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA Hons Politics
+- Upper Second Class Honours
+- Students' Union Vice President Student Activities 2011-12 (Sabbatical)
 
-#### Any other qualifications
+#### Tonbridge Grammar School for Girls
 
-That in some arguable way make you a better software developer or well-rounded person
+A-levels - Mathematics, Politics and Economics
+GCSE's - Mathematics, English Language, Science, Englist Literature, Geography, Textiles, ICT, French, Religious Studies.
 
 ## Hobbies
 
