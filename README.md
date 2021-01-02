@@ -1,5 +1,7 @@
 ## Katrina Harradine
 
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)  | [Blog](https://codered30.medium.com/)
+
 A sentence about who and what you are. 
 
 Then a sentence about what you've achieved. 
