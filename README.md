@@ -1,10 +1,10 @@
 ## Katrina Harradine
 
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)  | [Blog](https://codered30.medium.com/)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [Portfolio](https://github.com/CodeRed30/portfolio)| [Blog](https://codered30.medium.com/)
 
-A sentence about who and what you are. 
+A sentence about who and what you are. - A full stack developer in training; specialising in Ruby, Javascript and Python.
 
-Then a sentence about what you've achieved. 
+Then a sentence about what you've achieved. - Former Project Manager. 
 
 And then a sentence about what excites you about tech.
 
@@ -17,13 +17,28 @@ And then a sentence about what excites you about tech.
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Self-Employed** (January 2019 - January 2021)  
+_Carer_
+
+- Full time caring for my sick Mother.
+
+**Chicago Costume Company** (June 2018 to December 2018)  
+_Project Manager_
 
 - Any experience relevent to software development
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Peakon** (April 2017 to May 2018 )  
+_People and Operations Manger_
+
+- Any experience relevent to software development
+
+**MassChallenge** (February 2015 to April 2017)  
+_UK Operations Manager_
+
+- Any experience relevent to software development
+
+**Chartered Association of Business Schools** (September 2013 to February 2015)  
+_Project Manager_
 
 - Any experience relevent to software development
 
@@ -64,7 +79,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Tonbridge Grammar School for Girls
 
 A-levels - Mathematics, Politics and Economics
-GCSE's - Mathematics, English Language, Science, Englist Literature, Geography, Textiles, ICT, French, Religious Studies.
+GCSE's - Mathematics, English Language, Science, English Literature, Geography, Textiles, ICT, French, Religious Studies.
 
 ## Hobbies
 
