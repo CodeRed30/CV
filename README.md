@@ -1,10 +1,10 @@
 ## Katrina Harradine
 
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [Portfolio](https://github.com/CodeRed30/portfolio)| [Blog](https://codered30.medium.com/)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [Portfolio](https://github.com/CodeRed30/portfolio) | [Blog](https://codered30.medium.com/)
 
 A sentence about who and what you are. - A full stack developer in training; specialising in Ruby, Javascript and Python.
 
-Then a sentence about what you've achieved. - Former Project Manager. 
+Then a sentence about what you've achieved. - Former Project Manager.
 
 And then a sentence about what excites you about tech.
 
