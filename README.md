@@ -1,6 +1,19 @@
-## Katrina Harradine
+<h1 align="center">Katrina Harradine</h1>
+<p align="center">
+<!-- <a href="https://www.linkedin.com/in/harry-lingard-bright-884b24168/">
+<img src="https://www.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="linkedin" hspace="50" height="42" width="42"></a> -->
 
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [Portfolio](https://github.com/CodeRed30/portfolio) | [Blog](https://codered30.medium.com/)
+<div align="center">
+
+[Projects ](#projects) |
+[Skills ](#skills) |
+[Experience ](#experience) |
+[Education ](#education) |
+[Interests ](#interests)
+[Portfolio](https://github.com/CodeRed30/portfolio) |
+[Blog](https://codered30.medium.com/)
+
+</div>
 
 A sentence about who and what you are. - A full stack developer in training; specialising in Ruby, Javascript and Python.
 
@@ -81,6 +94,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 A-levels - Mathematics, Politics and Economics
 GCSE's - Mathematics, English Language, Science, English Literature, Geography, Textiles, ICT, French, Religious Studies.
 
-## Hobbies
+## Interests
 
 Any cool stuff that makes you a super part of a software development team
