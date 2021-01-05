@@ -9,7 +9,7 @@
 [Skills ](#skills) |
 [Experience ](#experience) |
 [Education ](#education) |
-[Interests ](#interests)
+[Interests ](#interests) |
 [Portfolio](https://github.com/CodeRed30/portfolio) |
 [Blog](https://codered30.medium.com/)
 
