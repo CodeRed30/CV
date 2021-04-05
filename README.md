@@ -1,29 +1,19 @@
-![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen)
+![For hire](https://img.shields.io/badge/Available_for_hire-Immediately-brightgreen)
 ![Last updated](https://img.shields.io/badge/Last_updated-April_2021-FCCA46)
 ![Contactable](https://img.shields.io/badge/Contactable-Feel_free-17BEBB)
 ![Status](https://img.shields.io/badge/Status-Probably_listening_to_soca_music-ff69b4)
 
 <h1 align="center">Katrina Harradine</h1>
-<p align="center">
-<!-- <a href="https://www.linkedin.com/in/harry-lingard-bright-884b24168/">
-<img src="https://www.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="linkedin" hspace="50" height="42" width="42"></a> -->
 
-<a href="https://www.linkedin.com/in/katrinaharradine/"><img src="images/linkedin.png" width="110" alt="LinkedIn"></a>
+<!-- <a href="https://www.linkedin.com/in/katrinaharradine/"><img src="images/linkedin.png" width="110" alt="LinkedIn"></a>
+
 <img src="images/white_space.jpg" width="170" height="100">
-<a href="https://codered30.medium.com"><img src="images/Medium.svg" width="95" alt="Medium" align="right"></a>
-<a href="https://www.codewars.com/users/codered30"><img src="images/codewars.png" width="100" alt="Codewars"></a>
 
-#
+<a href="https://codered30.medium.com"><img src="images/Medium.svg" width="95" alt="Medium" align="right"></a> <a href="https://www.codewars.com/users/codered30"><img src="images/codewars.png" width="100" alt="Codewars"></a> -->
 
 <div align="center">
 
-[Projects ](#projects) |
-[Skills ](#skills) |
-[Experience ](#experience) |
-[Education ](#education) |
-[Interests ](#interests) |
-[Portfolio](https://github.com/CodeRed30/portfolio) |
-[Blog](https://codered30.medium.com/)
+[Projects ](#projects) | [Skills ](#skills) | [Experience ](#experience) | [Education ](#education) | [Interests ](#interests) | [LinkedIn](https://www.linkedin.com/in/katrinaharradine/) | [Blog](https://codered30.medium.com/)
 
 </div>
 
